@@ -1595,6 +1595,89 @@
     "reason": "(Level 21)",
     "base_exp": "138"
   },
+{
+    "name": "041",
+    "id": "#A041",
+    "imageurl": "https://drive.google.com/u/0/uc?id=1NJosAbh8IO02uVD50FOViNmy89YazAiB&export=download",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1htz5ivHA-D13SEeEQxafLq8KdD3Y0gKM&export=download",
+    "xdescription": "مَنْ كَانَ لَهُ سَعَةٌ وَلَمْ يُضَحِّ فَلاَ يَقْرَبَنَّ مُصَلاَّنَا.\n\n\n“Barangsiapa yang memiliki kelapangan (rizki) dan tidak berqurban, maka janganlah ia mendekati tempat shalat kami.” (HR. Ibnu Majah no. 3123. Syaikh Al Albani mengatakan bahwa hadits ini hasan)",
+    "ydescription": "مَنْ كَانَ لَهُ سَعَةٌ وَلَمْ يُضَحِّ فَلاَ يَقْرَبَنَّ مُصَلاَّنَا.\n\n\n“Barangsiapa yang memiliki kelapangan (rizki) dan tidak berqurban, maka janganlah ia mendekati tempat shalat kami.” (HR. Ibnu Majah no. 3123. Syaikh Al Albani mengatakan bahwa hadits ini hasan)",
+    "height": "2' 07\"",
+    "category": "Akhlak",
+    "weight": "19.0 lbs",
+    "typeofpokemon": [
+      "HR_Ibnu_Majah"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Ice",
+      "Psychic"
+    ],
+    "evolutions": [
+      "#A041"
+    ],
+    "abilities": [
+      "Chlorophyll"
+    ],
+    "hp": 30,
+    "attack": 30,
+    "defense": 30,
+    "special_attack": 40,
+    "special_defense": 30,
+    "speed": 20,
+    "total": 180,
+    "male_percentage": "50%",
+    "female_percentage": "50%",
+    "genderless": 0,
+    "cycles": "20 ",
+    "egg_groups": "Grass ",
+    "evolvedfrom": "#043",
+    "reason": "(Level 21)",
+    "base_exp": "138"
+  },
+{
+    "name": "042",
+    "id": "#A042",
+    "imageurl": "https://drive.google.com/u/0/uc?id=1zYtEA9G3CliOJuG0yvjLhkV9ddgyJaY7&export=download",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1VeCfIj0pZtJ8Zhn9Al6CQ53042B5mdXm&export=download",
+    "xdescription": "إِذَا رَأَيْتُمْ هِلاَلَ ذِى الْحِجَّةِ وَأَرَادَ أَحَدُكُمْ أَنْ يُضَحِّىَ فَلْيُمْسِكْ عَنْ شَعْرِهِ وَأَظْفَارِهِ.\n\n\n“Jika masuk bulan Dzulhijah dan salah seorang dari kalian ingin menyembelih qurban, maka hendaklah ia tidak memotong sedikitpun dari rambut dan kukunya.” (HR. Muslim no. 1977)",
+    "ydescription": "إِذَا رَأَيْتُمْ هِلاَلَ ذِى الْحِجَّةِ وَأَرَادَ أَحَدُكُمْ أَنْ يُضَحِّىَ فَلْيُمْسِكْ عَنْ شَعْرِهِ وَأَظْفَارِهِ.\n\n\n“Jika masuk bulan Dzulhijah dan salah seorang dari kalian ingin menyembelih qurban, maka hendaklah ia tidak memotong sedikitpun dari rambut dan kukunya.” (HR. Muslim no. 1977)",
+    "height": "2' 07\"",
+    "category": "Akhlak",
+    "weight": "19.0 lbs",
+    "typeofpokemon": [
+      "HR_Muslim"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Ice",
+      "Psychic"
+    ],
+    "evolutions": [
+      "#A041"
+    ],
+    "abilities": [
+      "Chlorophyll"
+    ],
+    "hp": 30,
+    "attack": 30,
+    "defense": 30,
+    "special_attack": 40,
+    "special_defense": 30,
+    "speed": 20,
+    "total": 180,
+    "male_percentage": "50%",
+    "female_percentage": "50%",
+    "genderless": 0,
+    "cycles": "20 ",
+    "egg_groups": "Grass ",
+    "evolvedfrom": "#043",
+    "reason": "(Level 21)",
+    "base_exp": "138"
+  },
+
   {
     "name": "001",
     "id": "#001",
