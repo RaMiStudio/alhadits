@@ -1600,8 +1600,8 @@
     "id": "#A041",
     "imageurl": "https://drive.google.com/u/0/uc?id=1NJosAbh8IO02uVD50FOViNmy89YazAiB&export=download",
     "imageurlforshare": "https://drive.google.com/u/0/uc?id=1htz5ivHA-D13SEeEQxafLq8KdD3Y0gKM&export=download",
-    "xdescription": "مَنْ كَانَ لَهُ سَعَةٌ وَلَمْ يُضَحِّ فَلاَ يَقْرَبَنَّ مُصَلاَّنَا.\n\n\n“Barangsiapa yang memiliki kelapangan (rizki) dan tidak berqurban, maka janganlah ia mendekati tempat shalat kami.” \n(HR. Ibnu Majah no. 3123. Syaikh Al Albani mengatakan bahwa hadits ini hasan)",
-    "ydescription": "مَنْ كَانَ لَهُ سَعَةٌ وَلَمْ يُضَحِّ فَلاَ يَقْرَبَنَّ مُصَلاَّنَا.\n\n\n“Barangsiapa yang memiliki kelapangan (rizki) dan tidak berqurban, maka janganlah ia mendekati tempat shalat kami.” \n(HR. Ibnu Majah no. 3123. Syaikh Al Albani mengatakan bahwa hadits ini hasan)",
+    "xdescription": "مَنْ كَانَ لَهُ سَعَةٌ وَلَمْ يُضَحِّ فَلاَ يَقْرَبَنَّ مُصَلاَّنَا.\n\n\n“Barangsiapa yang memiliki kelapangan (rizki) dan tidak berqurban, maka janganlah ia mendekati tempat shalat kami.” /n(HR. Ibnu Majah no. 3123. Syaikh Al Albani mengatakan bahwa hadits ini hasan)",
+    "ydescription": "مَنْ كَانَ لَهُ سَعَةٌ وَلَمْ يُضَحِّ فَلاَ يَقْرَبَنَّ مُصَلاَّنَا.\n\n\n“Barangsiapa yang memiliki kelapangan (rizki) dan tidak berqurban, maka janganlah ia mendekati tempat shalat kami.” /n(HR. Ibnu Majah no. 3123. Syaikh Al Albani mengatakan bahwa hadits ini hasan)",
     "height": "2' 07\"",
     "category": "Akhlak",
     "weight": "19.0 lbs",
@@ -1657,6 +1657,48 @@
     ],
     "evolutions": [
       "#A041"
+    ],
+    "abilities": [
+      "Chlorophyll"
+    ],
+    "hp": 30,
+    "attack": 30,
+    "defense": 30,
+    "special_attack": 40,
+    "special_defense": 30,
+    "speed": 20,
+    "total": 180,
+    "male_percentage": "50%",
+    "female_percentage": "50%",
+    "genderless": 0,
+    "cycles": "20 ",
+    "egg_groups": "Grass ",
+    "evolvedfrom": "#043",
+    "reason": "(Level 21)",
+    "base_exp": "138"
+  },
+
+{
+    "name": "043",
+    "id": "#A043",
+    "imageurl": "https://drive.google.com/u/0/uc?id=16XTv_4mhhzuv8MipqGWQYGhK69-lbJgw&export=download",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=18_1RPEOXYQrUkOJtG1FHN9ZhbjNiXZzh&export=download",
+    "xdescription": "الصَّلَوَاتُ الخَمْسُ ، وَالجُمُعَةُ إِلَى الجُمُعَةِ ، وَرَمَضَانُ إِلَى رَمَضَانَ ، مُكَفِّراتٌ مَا بَيْنَهُنَّ إِذَا اجْتُنِبَتِ الكَبَائِرُ\n\n\n“Shalat lima waktu, Jumat ke Jumat, dan Ramadhan ke Ramadhan adalah penghapus dosa-dosa yang di antara semua itu, jika dosa-dosa besar dijauhi.”\n (HR. Muslim, no. 233),
+    "ydescription": "الصَّلَوَاتُ الخَمْسُ ، وَالجُمُعَةُ إِلَى الجُمُعَةِ ، وَرَمَضَانُ إِلَى رَمَضَانَ ، مُكَفِّراتٌ مَا بَيْنَهُنَّ إِذَا اجْتُنِبَتِ الكَبَائِرُ\n\n\n“Shalat lima waktu, Jumat ke Jumat, dan Ramadhan ke Ramadhan adalah penghapus dosa-dosa yang di antara semua itu, jika dosa-dosa besar dijauhi.”\n (HR. Muslim, no. 233),
+    "height": "2' 07\"",
+    "category": "Akhlak",
+    "weight": "19.0 lbs",
+    "typeofpokemon": [
+      "HR_Muslim"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Ice",
+      "Psychic"
+    ],
+    "evolutions": [
+      "#A043"
     ],
     "abilities": [
       "Chlorophyll"
