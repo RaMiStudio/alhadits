@@ -1959,8 +1959,8 @@
     "base_exp": "138"
   },
   {
-    "name": "Melmetal",
-    "id": "voXet_qfIOk",
+    "name": "voXet_qfIOk",
+    "id": "#001",
     "imageurl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/809.png",
     "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
     "xdescription": "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.",
@@ -1977,7 +1977,7 @@
       "Ground"
     ],
     "evolutions": [
-      "voXet_qfIOk"
+      "#001"
     ],
     "abilities": [],
     "hp": 50,
