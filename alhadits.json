@@ -1960,13 +1960,13 @@
   },
   {
     "name": "Melmetal",
-    "id": "#809",
+    "id": "voXet_qfIOk",
     "imageurl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/809.png",
     "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
     "xdescription": "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.",
     "ydescription": "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.",
     "height": "8' 02\"",
-    "category": "Hex Nut",
+    "category": "Bersyukur",
     "weight": "1763.7 lbs",
     "typeofpokemon": [
       "Steel"
@@ -1977,8 +1977,7 @@
       "Ground"
     ],
     "evolutions": [
-      "#808",
-      "#809"
+      "voXet_qfIOk"
     ],
     "abilities": [],
     "hp": 50,
