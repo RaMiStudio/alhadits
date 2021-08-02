@@ -1959,99 +1959,17 @@
     "base_exp": "138"
   },
   {
-    "name": "001",
-    "id": "#A001",
-    "imageurl": "https://drive.google.com/u/0/uc?id=1N_9AtX2XIPmMoIrBfZE9jENzaLtaIItn&export=download",
-    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1FhyYJ1eG0YCaRsGK4ZJStwnBlXvDI9Jy&export=download",
-    "xdescription": "قال رسولُ اللهِ -صلى الله عليه وسلم- : “إِنَّ لِكُلِّ دِيْنِ خُلُقًا وَخُلُقُ الإسلامَ الْحَيَاءُ“\n\n\n\nDari Anas bin Malik radhiallahu anhu, dia berkata, Nabi shallallahu alaihi was sallam, bersabda : “Sesungguhnya setiap agama memiliki akhlak, dan akhlak Islami adalah rasa malu.” (HR. Ibnu Majah)",
-    "ydescription": "قال رسولُ اللهِ -صلى الله عليه وسلم- : “إِنَّ لِكُلِّ دِيْنِ خُلُقًا وَخُلُقُ الإسلامَ الْحَيَاءُ“\n\n\n\nDari Anas bin Malik radhiallahu anhu, dia berkata, Nabi shallallahu alaihi was sallam, bersabda : “Sesungguhnya setiap agama memiliki akhlak, dan akhlak Islami adalah rasa malu.” (HR. Ibnu Majah)",
-    "category": "Bersyukur",
-    "height": "20' 04\"",
-    "weight": "15.2 lbs",
-    "typeofpokemon": [
-      "HR_Ibnu_Majah"
-    ],
-    "weaknesses": [
-      "Fire",
-      "Flying",
-      "Ice",
-      "Psychic"
-    ],
-    "evolutions": [
-      "#A001"
-    ],
-    "abilities": [
-      "Overgrow"
-    ],
-    "hp": 20,
-    "attack": 30,
-    "defense": 20,
-    "special_attack": 30,
-    "special_defense": 30,
-    "speed": 30,
-    "total": 160,
-    "male_percentage": "87.5%",
-    "female_percentage": "12.5%",
-    "genderless": 0,
-    "cycles": "20 ",
-    "egg_groups": "Grass, Monster ",
-    "evolvedfrom": "",
-    "reason": "",
-    "base_exp": "64"
-  },
-  {
-    "name": "002",
-    "id": "#A002",
-    "imageurl": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
-    "imageurlforshare": "https://drive.google.com/u/0/uc?id=13jhH5zbmibsU-scvOGE_Sn6cOJ_oKzVF&export=download",
-    "xdescription": "إِنَّ اللهَ كَرِيْمٌ يُحِبُّ الْكَرَمَ وَمَعَالِيَ اْلأَخْلاَقِ وَيُبْغِضُ سِفْسَافَهَا\n\n\n\n“Sesungguhnya Allah Maha Pemurah menyukai kedermawanan dan akhlak yang mulia serta membenci akhlak yang rendah (hina).” (HR. Bukhari, Muslim)",
-    "ydescription": "إِنَّ اللهَ كَرِيْمٌ يُحِبُّ الْكَرَمَ وَمَعَالِيَ اْلأَخْلاَقِ وَيُبْغِضُ سِفْسَافَهَا\n\n\n\n“Sesungguhnya Allah Maha Pemurah menyukai kedermawanan dan akhlak yang mulia serta membenci akhlak yang rendah (hina).” (HR. Bukhari, Muslim)",
-    "height": "3' 03\"",
-    "category": "Bersyukur",
-    "weight": "28.7 lbs",
-    "typeofpokemon": [
-      "HR_Bukhari_strip_Muslim"
-    ],
-    "weaknesses": [
-      "Fire",
-      "Flying",
-      "Ice",
-      "Psychic"
-    ],
-    "evolutions": [
-      "#A002"
-    ],
-    "abilities": [
-      "Overgrow"
-    ],
-    "hp": 30,
-    "attack": 30,
-    "defense": 30,
-    "special_attack": 40,
-    "special_defense": 30,
-    "speed": 30,
-    "total": 190,
-    "male_percentage": "87.5%",
-    "female_percentage": "12.5%",
-    "genderless": 0,
-    "cycles": "20 ",
-    "egg_groups": "Grass, Monster ",
-    "evolvedfrom": "#001",
-    "reason": "(Level 16)",
-    "base_exp": "142"
-  },
-  {
-    "name": "voXet_qfIOk",
-    "id": "#001",
-    "imageurl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/809.png",
+    "name": "IBUMU KUNCI SURGAMU",
+    "id": "KT3ZfW0ag-o",
+    "imageurl": "rUygVIQF4sk",
     "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
-    "xdescription": "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.",
-    "ydescription": "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.",
+    "xdescription": "IBUMU KUNCI SURGAMU - Ustadz. Abdul Somad, Lc., MA",
+    "ydescription": "IBUMU KUNCI SURGAMU - Ustadz. Abdul Somad, Lc., MA",
     "height": "8' 02\"",
     "category": "Bersyukur",
     "weight": "1763.7 lbs",
     "typeofpokemon": [
-      "Steel"
+      "Ustadz_Abdul_Somad"
     ],
     "weaknesses": [
       "Fire",
@@ -2059,7 +1977,43 @@
       "Ground"
     ],
     "evolutions": [
-      "#001"
+      "KT3ZfW0ag-o"
+    ],
+    "abilities": [],
+    "hp": 50,
+    "attack": 70,
+    "defense": 60,
+    "special_attack": 40,
+    "special_defense": 20,
+    "speed": 20,
+    "total": 260,
+    "genderless": 1,
+    "cycles": "-",
+    "egg_groups": "Undiscovered ",
+    "evolvedfrom": "#808",
+    "reason": "(Pok\u00e9mon GO only, 400 Meltan Candies)",
+    "base_exp": "\u2014"
+  },
+{
+    "name": "KUNCI HIDUP SUKSES DUNIA DAN AKHIRAT",
+    "id": "T5KbPoSFaME",
+    "imageurl": "rUygVIQF4sk",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
+    "xdescription": "KUNCI HIDUP SUKSES DUNIA DAN AKHIRAT - Syeikh Ali Jaber",
+    "ydescription": "KUNCI HIDUP SUKSES DUNIA DAN AKHIRAT - Syeikh Ali Jaber",
+    "height": "8' 02\"",
+    "category": "Bersyukur",
+    "weight": "1763.7 lbs",
+    "typeofpokemon": [
+      "Ustadz_Abdul_Somad"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "evolutions": [
+      "T5KbPoSFaME"
     ],
     "abilities": [],
     "hp": 50,
