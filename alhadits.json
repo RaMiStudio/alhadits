@@ -1997,7 +1997,7 @@
 {
     "name": "Hidup Sukses",
     "id": "T5KbPoSFaME",
-    "imageurl": "xTOavOwFLog",
+    "imageurl": "fVpaqVQNtxI",
     "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
     "xdescription": "KUNCI HIDUP SUKSES DUNIA DAN AKHIRAT - Syeikh Ali Jaber",
     "ydescription": "KUNCI HIDUP SUKSES DUNIA DAN AKHIRAT - Syeikh Ali Jaber",
@@ -2141,10 +2141,10 @@
 {
     "name": "Wahai Ibuku",
     "id": "vcdyXRPoYwQ",
-    "imageurl": "xTOavOwFLog",
+    "imageurl": "fVpaqVQNtxI",
     "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
-    "xdescription": "RENUNGAN SEDIH WAHAI IBUKU - Ustadz Abdul",
-    "ydescription": "RENUNGAN SEDIH WAHAI IBUKU - Ustadz Abdul",
+    "xdescription": "RENUNGAN SEDIH WAHAI IBUKU - Ustadz. Abdul Somad, Lc., MA",
+    "ydescription": "RENUNGAN SEDIH WAHAI IBUKU - Ustadz. Abdul Somad, Lc., MA",
     "height": "8' 02\"",
     "category": "Bersyukur",
     "weight": "1763.7 lbs",
@@ -2173,6 +2173,619 @@
     "evolvedfrom": "#808",
     "reason": "(Pok\u00e9mon GO only, 400 Meltan Candies)",
     "base_exp": "\u2014"
+  },
+{
+    "name": "3 jenis ujian",
+    "id": "NOmGmEgMsMg",
+    "imageurl": "fVpaqVQNtxI",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
+    "xdescription": "3 JENIS UJIAN JIKA MENGALAMI UJIAN KE TIGA SELAMAT ANDA LUAR BIASA ! - Ustadz Adi Hidayat",
+    "ydescription": "3 JENIS UJIAN JIKA MENGALAMI UJIAN KE TIGA SELAMAT ANDA LUAR BIASA ! - Ustadz Adi Hidayat",
+    "height": "8' 02\"",
+    "category": "Bersyukur",
+    "weight": "1763.7 lbs",
+    "typeofpokemon": [
+      "Ustadz_Adi_Hidayat"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "evolutions": [
+      "NOmGmEgMsMg"
+    ],
+    "abilities": [],
+    "hp": 50,
+    "attack": 70,
+    "defense": 60,
+    "special_attack": 40,
+    "special_defense": 20,
+    "speed": 20,
+    "total": 260,
+    "genderless": 1,
+    "cycles": "-",
+    "egg_groups": "Undiscovered ",
+    "evolvedfrom": "#808",
+    "reason": "(Pok\u00e9mon GO only, 400 Meltan Candies)",
+    "base_exp": "\u2014"
+  },
+{
+    "name": "Rezeki bertambah",
+    "id": "QJkavZYsi64",
+    "imageurl": "fVpaqVQNtxI",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
+    "xdescription": "Rahasia Rezeki yang terus bertambah - Ustadz Adi Hidayat",
+    "ydescription": "Rahasia Rezeki yang terus bertambah - Ustadz Adi Hidayat",
+    "height": "8' 02\"",
+    "category": "Bersyukur",
+    "weight": "1763.7 lbs",
+    "typeofpokemon": [
+      "Ustadz_Adi_Hidayat"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "evolutions": [
+      "QJkavZYsi64"
+    ],
+    "abilities": [],
+    "hp": 50,
+    "attack": 70,
+    "defense": 60,
+    "special_attack": 40,
+    "special_defense": 20,
+    "speed": 20,
+    "total": 260,
+    "genderless": 1,
+    "cycles": "-",
+    "egg_groups": "Undiscovered ",
+    "evolvedfrom": "#808",
+    "reason": "(Pok\u00e9mon GO only, 400 Meltan Candies)",
+    "base_exp": "\u2014"
+  },
+{
+    "name": "Tenang",
+    "id": "olzgbOhkCiA",
+    "imageurl": "fVpaqVQNtxI",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
+    "xdescription": "Tenang Dalam Kesulitan - Ustadz Adi Hidayat",
+    "ydescription": "Tenang Dalam Kesulitan - Ustadz Adi Hidayat",
+    "height": "8' 02\"",
+    "category": "Bersyukur",
+    "weight": "1763.7 lbs",
+    "typeofpokemon": [
+      "Ustadz_Adi_Hidayat"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "evolutions": [
+      "olzgbOhkCiA"
+    ],
+    "abilities": [],
+    "hp": 50,
+    "attack": 70,
+    "defense": 60,
+    "special_attack": 40,
+    "special_defense": 20,
+    "speed": 20,
+    "total": 260,
+    "genderless": 1,
+    "cycles": "-",
+    "egg_groups": "Undiscovered ",
+    "evolvedfrom": "#808",
+    "reason": "(Pok\u00e9mon GO only, 400 Meltan Candies)",
+    "base_exp": "\u2014"
+  },
+{
+    "name": "Kufur",
+    "id": "hDmD0N8M3uc",
+    "imageurl": "fVpaqVQNtxI",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
+    "xdescription": "Waspada! Tanda-tanda Kekufuran ??! - Ustadz Adi Hidayat",
+    "ydescription": "Waspada! Tanda-tanda Kekufuran ??! - Ustadz Adi Hidayat",
+    "height": "8' 02\"",
+    "category": "Bersyukur",
+    "weight": "1763.7 lbs",
+    "typeofpokemon": [
+      "Ustadz_Adi_Hidayat"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "evolutions": [
+      "hDmD0N8M3uc"
+    ],
+    "abilities": [],
+    "hp": 50,
+    "attack": 70,
+    "defense": 60,
+    "special_attack": 40,
+    "special_defense": 20,
+    "speed": 20,
+    "total": 260,
+    "genderless": 1,
+    "cycles": "-",
+    "egg_groups": "Undiscovered ",
+    "evolvedfrom": "#808",
+    "reason": "(Pok\u00e9mon GO only, 400 Meltan Candies)",
+    "base_exp": "\u2014"
+  },
+{
+    "name": "Bekal",
+    "id": "QHb_kkB7faA",
+    "imageurl": "xTOavOwFLog",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
+    "xdescription": "BEKAL TERBAIK SEBELUM AJAL MENJEMPUT - Syeikh Ali Jaber",
+    "ydescription": "BEKAL TERBAIK SEBELUM AJAL MENJEMPUT - Syeikh Ali Jaber",
+    "height": "8' 02\"",
+    "category": "Bersyukur",
+    "weight": "1763.7 lbs",
+    "typeofpokemon": [
+      "Syeikh_Ali_Jaber"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "evolutions": [
+      "QHb_kkB7faA"
+    ],
+    "abilities": [],
+    "hp": 50,
+    "attack": 70,
+    "defense": 60,
+    "special_attack": 40,
+    "special_defense": 20,
+    "speed": 20,
+    "total": 260,
+    "genderless": 1,
+    "cycles": "-",
+    "egg_groups": "Undiscovered ",
+    "evolvedfrom": "#808",
+    "reason": "(Pok\u00e9mon GO only, 400 Meltan Candies)",
+    "base_exp": "\u2014"
+  },
+{
+    "name": "Tinggalkan Sholat",
+    "id": "95Z6lvQmzGg",
+    "imageurl": "xTOavOwFLog",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
+    "xdescription": "JANGAN PERNAH TINGGALKAN SHOLAT.! SEBANYAK APAPUN DOSAMU - NASEHAT SYEIKH ALI JABER",
+    "ydescription": "JANGAN PERNAH TINGGALKAN SHOLAT.! SEBANYAK APAPUN DOSAMU - NASEHAT SYEIKH ALI JABER",
+    "height": "8' 02\"",
+    "category": "Bersyukur",
+    "weight": "1763.7 lbs",
+    "typeofpokemon": [
+      "Syeikh_Ali_Jaber"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "evolutions": [
+      "95Z6lvQmzGg"
+    ],
+    "abilities": [],
+    "hp": 50,
+    "attack": 70,
+    "defense": 60,
+    "special_attack": 40,
+    "special_defense": 20,
+    "speed": 20,
+    "total": 260,
+    "genderless": 1,
+    "cycles": "-",
+    "egg_groups": "Undiscovered ",
+    "evolvedfrom": "#808",
+    "reason": "(Pok\u00e9mon GO only, 400 Meltan Candies)",
+    "base_exp": "\u2014"
+  },
+{
+    "name": "Tinggalkan Sholat",
+    "id": "n-3R6KrAd2g",
+    "imageurl": "xTOavOwFLog",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
+    "xdescription": "Ini Cara Menenangkan Hati dan Pikiran Sesuai Syariat Islam - Syekh Ali Jaber",
+    "ydescription": "Ini Cara Menenangkan Hati dan Pikiran Sesuai Syariat Islam - Syekh Ali Jaber",
+    "height": "8' 02\"",
+    "category": "Bersyukur",
+    "weight": "1763.7 lbs",
+    "typeofpokemon": [
+      "Syeikh_Ali_Jaber"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "evolutions": [
+      "n-3R6KrAd2g"
+    ],
+    "abilities": [],
+    "hp": 50,
+    "attack": 70,
+    "defense": 60,
+    "special_attack": 40,
+    "special_defense": 20,
+    "speed": 20,
+    "total": 260,
+    "genderless": 1,
+    "cycles": "-",
+    "egg_groups": "Undiscovered ",
+    "evolvedfrom": "#808",
+    "reason": "(Pok\u00e9mon GO only, 400 Meltan Candies)",
+    "base_exp": "\u2014"
+  },
+{
+    "name": "Hidup Bahagia",
+    "id": "1PuEKeA3R9Q",
+    "imageurl": "xTOavOwFLog",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
+    "xdescription": "HIDUP BAHAGIA DENGAN TIDAK DIPERBUDAK OLEH KEINGINAN - AA Gym",
+    "ydescription": "HIDUP BAHAGIA DENGAN TIDAK DIPERBUDAK OLEH KEINGINAN - AA Gym",
+    "height": "8' 02\"",
+    "category": "Bersyukur",
+    "weight": "1763.7 lbs",
+    "typeofpokemon": [
+      "AA_Gym"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "evolutions": [
+      "n-3R6KrAd2g"
+    ],
+    "abilities": [],
+    "hp": 50,
+    "attack": 70,
+    "defense": 60,
+    "special_attack": 40,
+    "special_defense": 20,
+    "speed": 20,
+    "total": 260,
+    "genderless": 1,
+    "cycles": "-",
+    "egg_groups": "Undiscovered ",
+    "evolvedfrom": "#808",
+    "reason": "(Pok\u00e9mon GO only, 400 Meltan Candies)",
+    "base_exp": "\u2014"
+  },
+{
+    "name": "Tidak sakit hati",
+    "id": "RXxFDpRbrkY",
+    "imageurl": "fVpaqVQNtxI",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
+    "xdescription": "LATIHAN AGAR TIDAK MUDAH SAKIT HATI - aa gym",
+    "ydescription": "LATIHAN AGAR TIDAK MUDAH SAKIT HATI - aa gym",
+    "height": "8' 02\"",
+    "category": "Bersyukur",
+    "weight": "1763.7 lbs",
+    "typeofpokemon": [
+      "AA_Gym"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "evolutions": [
+      "RXxFDpRbrkY"
+    ],
+    "abilities": [],
+    "hp": 50,
+    "attack": 70,
+    "defense": 60,
+    "special_attack": 40,
+    "special_defense": 20,
+    "speed": 20,
+    "total": 260,
+    "genderless": 1,
+    "cycles": "-",
+    "egg_groups": "Undiscovered ",
+    "evolvedfrom": "#808",
+    "reason": "(Pok\u00e9mon GO only, 400 Meltan Candies)",
+    "base_exp": "\u2014"
+  },
+{
+    "name": "Rencana Allah",
+    "id": "diOvwReamJQ",
+    "imageurl": "xTOavOwFLog",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
+    "xdescription": "SABAR & RIDHA YAKIN RENCANA ALLAH PASTI TERBAIK | Kajian MQ Pagi - aa gym",
+    "ydescription": "SABAR & RIDHA YAKIN RENCANA ALLAH PASTI TERBAIK | Kajian MQ Pagi - aa gym",
+    "height": "8' 02\"",
+    "category": "Bersyukur",
+    "weight": "1763.7 lbs",
+    "typeofpokemon": [
+      "AA_Gym"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "evolutions": [
+      "RXxFDpRbrkY"
+    ],
+    "abilities": [],
+    "hp": 50,
+    "attack": 70,
+    "defense": 60,
+    "special_attack": 40,
+    "special_defense": 20,
+    "speed": 20,
+    "total": 260,
+    "genderless": 1,
+    "cycles": "-",
+    "egg_groups": "Undiscovered ",
+    "evolvedfrom": "#808",
+    "reason": "(Pok\u00e9mon GO only, 400 Meltan Candies)",
+    "base_exp": "\u2014"
+  },
+{
+    "name": "Tukang kompor",
+    "id": "aLrGkHG8d80",
+    "imageurl": "fVpaqVQNtxI",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
+    "xdescription": "Tukang Kompor Sibuk Membuka Aib Orang Lain - KH Zainuddin MZ",
+    "ydescription": "Tukang Kompor Sibuk Membuka Aib Orang Lain - KH Zainuddin MZ",
+    "height": "8' 02\"",
+    "category": "Bersyukur",
+    "weight": "1763.7 lbs",
+    "typeofpokemon": [
+      "KH_Zainuddin_MZ"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "evolutions": [
+      "RXxFDpRbrkY"
+    ],
+    "abilities": [],
+    "hp": 50,
+    "attack": 70,
+    "defense": 60,
+    "special_attack": 40,
+    "special_defense": 20,
+    "speed": 20,
+    "total": 260,
+    "genderless": 1,
+    "cycles": "-",
+    "egg_groups": "Undiscovered ",
+    "evolvedfrom": "#808",
+    "reason": "(Pok\u00e9mon GO only, 400 Meltan Candies)",
+    "base_exp": "\u2014"
+  },
+{
+    "name": "Ular dan Riba",
+    "id": "v0ZDnOPOjEU",
+    "imageurl": "xTOavOwFLog",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
+    "xdescription": "Ular dan Riba - KH.ZAINUDDIN MZ",
+    "ydescription": "Ular dan Riba - KH.ZAINUDDIN MZ",
+    "height": "8' 02\"",
+    "category": "Bersyukur",
+    "weight": "1763.7 lbs",
+    "typeofpokemon": [
+      "KH_Zainuddin_MZ"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "evolutions": [
+      "RXxFDpRbrkY"
+    ],
+    "abilities": [],
+    "hp": 50,
+    "attack": 70,
+    "defense": 60,
+    "special_attack": 40,
+    "special_defense": 20,
+    "speed": 20,
+    "total": 260,
+    "genderless": 1,
+    "cycles": "-",
+    "egg_groups": "Undiscovered ",
+    "evolvedfrom": "#808",
+    "reason": "(Pok\u00e9mon GO only, 400 Meltan Candies)",
+    "base_exp": "\u2014"
+  },
+{
+    "name": "Hutang",
+    "id": "_IhlOUiMHtM",
+    "imageurl": "fVpaqVQNtxI",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
+    "xdescription": "Tidak Membayar Hutang Inilah yang Akan Terjadi Di akhirat - Ustadz Abdul Somad Lc Ma",
+    "ydescription": "Tidak Membayar Hutang Inilah yang Akan Terjadi Di akhirat - Ustadz Abdul Somad Lc Ma",
+    "height": "8' 02\"",
+    "category": "Bersyukur",
+    "weight": "1763.7 lbs",
+    "typeofpokemon": [
+      "KH_Zainuddin_MZ"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "evolutions": [
+      "RXxFDpRbrkY"
+    ],
+    "abilities": [],
+    "hp": 50,
+    "attack": 70,
+    "defense": 60,
+    "special_attack": 40,
+    "special_defense": 20,
+    "speed": 20,
+    "total": 260,
+    "genderless": 1,
+    "cycles": "-",
+    "egg_groups": "Undiscovered ",
+    "evolvedfrom": "#808",
+    "reason": "(Pok\u00e9mon GO only, 400 Meltan Candies)",
+    "base_exp": "\u2014"
+  },
+{
+    "name": "Hutang",
+    "id": "_IhlOUiMHtM",
+    "imageurl": "xTOavOwFLog",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
+    "xdescription": "Tidak Membayar Hutang Inilah yang Akan Terjadi Di akhirat - Ustadz Abdul Somad Lc Ma",
+    "ydescription": "Tidak Membayar Hutang Inilah yang Akan Terjadi Di akhirat - Ustadz Abdul Somad Lc Ma",
+    "height": "8' 02\"",
+    "category": "Bersyukur",
+    "weight": "1763.7 lbs",
+    "typeofpokemon": [
+      "Ustadz_Abdul_Somad"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "evolutions": [
+      "RXxFDpRbrkY"
+    ],
+    "abilities": [],
+    "hp": 50,
+    "attack": 70,
+    "defense": 60,
+    "special_attack": 40,
+    "special_defense": 20,
+    "speed": 20,
+    "total": 260,
+    "genderless": 1,
+    "cycles": "-",
+    "egg_groups": "Undiscovered ",
+    "evolvedfrom": "#808",
+    "reason": "(Pok\u00e9mon GO only, 400 Meltan Candies)",
+    "base_exp": "\u2014"
+  },
+{
+    "name": "Ujian Hidup",
+    "id": "tw8lhSModAE",
+    "imageurl": "xTOavOwFLog",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
+    "xdescription": "UJIAN HIDUP, ADALAH JALAN SYURGA | Kajian Khusus bersama Pengusaha Hijrah Jakarta 17.6.2021 - Ustadz Abdul Somad Lc Ma",
+    "ydescription": "UJIAN HIDUP, ADALAH JALAN SYURGA | Kajian Khusus bersama Pengusaha Hijrah Jakarta 17.6.2021 - Ustadz Abdul Somad Lc Ma",
+    "height": "8' 02\"",
+    "category": "Bersyukur",
+    "weight": "1763.7 lbs",
+    "typeofpokemon": [
+      "Ustadz_Abdul_Somad"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "evolutions": [
+      "RXxFDpRbrkY"
+    ],
+    "abilities": [],
+    "hp": 50,
+    "attack": 70,
+    "defense": 60,
+    "special_attack": 40,
+    "special_defense": 20,
+    "speed": 20,
+    "total": 260,
+    "genderless": 1,
+    "cycles": "-",
+    "egg_groups": "Undiscovered ",
+    "evolvedfrom": "#808",
+    "reason": "(Pok\u00e9mon GO only, 400 Meltan Candies)",
+    "base_exp": "\u2014"
+  },
+{
+    "name": "Sia-siakan waktu",
+    "id": "b7VT6Llh_E4",
+    "imageurl": "xTOavOwFLog",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
+    "xdescription": "JANGAN SIA-SIAKAN WAKTU LUANG SEDIKITPUN | Kajian Khusus Keluarga, Mampang Prpatan, Jaksel 18.6.2021 - Ustadz Abdul Somad Lc Ma",
+    "ydescription": "JANGAN SIA-SIAKAN WAKTU LUANG SEDIKITPUN | Kajian Khusus Keluarga, Mampang Prpatan, Jaksel 18.6.2021 - Ustadz Abdul Somad Lc Ma",
+    "height": "8' 02\"",
+    "category": "Bersyukur",
+    "weight": "1763.7 lbs",
+    "typeofpokemon": [
+      "Ustadz_Abdul_Somad"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "evolutions": [
+      "RXxFDpRbrkY"
+    ],
+    "abilities": [],
+    "hp": 50,
+    "attack": 70,
+    "defense": 60,
+    "special_attack": 40,
+    "special_defense": 20,
+    "speed": 20,
+    "total": 260,
+    "genderless": 1,
+    "cycles": "-",
+    "egg_groups": "Undiscovered ",
+    "evolvedfrom": "#808",
+    "reason": "(Pok\u00e9mon GO only, 400 Meltan Candies)",
+    "base_exp": "\u2014"
+  },
+{
+    "name": "Hidup diberkahi",
+    "id": "OnNLncPVmoQ",
+    "imageurl": "fVpaqVQNtxI",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
+    "xdescription": "AGAR HIDUPMU DIBERKAHI ALLAH & REZEKI SEMAKIN LANCAR | Ustadz Abdul Somad. Lc., MA., Ph.D",
+    "ydescription": "AGAR HIDUPMU DIBERKAHI ALLAH & REZEKI SEMAKIN LANCAR | Ustadz Abdul Somad Lc Ma",
+    "height": "8' 02\"",
+    "category": "Bersyukur",
+    "weight": "1763.7 lbs",
+    "typeofpokemon": [
+      "Ustadz_Abdul_Somad"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "evolutions": [
+      "RXxFDpRbrkY"
+    ],
+    "abilities": [],
+    "hp": 50,
+    "attack": 70,
+    "defense": 60,
+    "special_attack": 40,
+    "special_defense": 20,
+    "speed": 20,
+    "total": 260,
+    "genderless": 1,
+    "cycles": "-",
+    "egg_groups": "Undiscovered ",
+    "evolvedfrom": "#808",
+    "reason": "(Pok\u00e9mon GO only, 400 Meltan Candies)",
+    "base_exp": "\u2014"
   }
+
 
 ]
