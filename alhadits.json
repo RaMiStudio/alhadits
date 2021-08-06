@@ -1719,7 +1719,47 @@
     "reason": "(Level 21)",
     "base_exp": "138"
   },
-
+{
+    "name": "044",
+    "id": "#A044",
+    "imageurl": "https://drive.google.com/u/0/uc?id=1R6hi0xMjR9wBFkA6oObTJnTivxqq0oLW&export=download",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1D-3lPg2oRx96VH06-W7FteY9gDM1dUdD&export=download",
+    "xdescription": "مَنْ فَارَقَ الرُّوحُ الْجَسَدَ وَهُوَ بَرِىءٌ مِنْ ثَلاَثٍ دَخَلَ الْجَنَّةَ مِنَ الْكِبْرِ وَالْغُلُولِ وَالدَّيْنِ\n\n“Barangsiapa yang ruhnya terpisah dari jasadnya dan dia terbebas dari tiga hal: [1] sombong, [2] ghulul (khianat), dan [3] hutang, maka dia akan masuk surga.” \n(HR. Ibnu Majah no. 2412)",
+    "ydescription": "مَنْ فَارَقَ الرُّوحُ الْجَسَدَ وَهُوَ بَرِىءٌ مِنْ ثَلاَثٍ دَخَلَ الْجَنَّةَ مِنَ الْكِبْرِ وَالْغُلُولِ وَالدَّيْنِ\n\n“Barangsiapa yang ruhnya terpisah dari jasadnya dan dia terbebas dari tiga hal: [1] sombong, [2] ghulul (khianat), dan [3] hutang, maka dia akan masuk surga.” \n(HR. Ibnu Majah no. 2412)",
+    "height": "2' 07\"",
+    "category": "Akhlak",
+    "weight": "19.0 lbs",
+    "typeofpokemon": [
+      "HR_Ibnu_Majah"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Ice",
+      "Psychic"
+    ],
+    "evolutions": [
+      "#A044"
+    ],
+    "abilities": [
+      "Chlorophyll"
+    ],
+    "hp": 30,
+    "attack": 30,
+    "defense": 30,
+    "special_attack": 40,
+    "special_defense": 30,
+    "speed": 20,
+    "total": 180,
+    "male_percentage": "50%",
+    "female_percentage": "50%",
+    "genderless": 0,
+    "cycles": "20 ",
+    "egg_groups": "Grass ",
+    "evolvedfrom": "#043",
+    "reason": "(Level 21)",
+    "base_exp": "138"
+  },
   {
     "name": "001",
     "id": "#001",
