@@ -1759,6 +1759,90 @@
     "evolvedfrom": "#043",
     "reason": "(Level 21)",
     "base_exp": "138"
+  }
+,
+{
+    "name": "045",
+    "id": "#A045",
+    "imageurl": "https://drive.google.com/u/0/uc?id=1rpHkLHzzLZVk3yK8lMxShBSF8HMYH-5t&export=download",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1-6PHFI45mSTSgWm2QbYyy8GIXmhmxbD0&export=download",
+    "xdescription": "أَفْضَلُ الصِّيَامِ بَعْدَ رَمَضَانَ شَهْرُ اللَّهِ الْمُحَرَّمُ وَأَفْضَلُ الصَّلاَةِ بَعْدَ الْفَرِيضَةِ صَلاَةُ اللَّيْلِ\n\n“Puasa yang paling utama setelah (puasa) Ramadhan adalah puasa pada bulan Allah – Muharram. Sementara shalat yang paling utama setelah shalat wajib adalah shalat malam.” \n(HR. Muslim no. 1163)",
+    "ydescription": "أَفْضَلُ الصِّيَامِ بَعْدَ رَمَضَانَ شَهْرُ اللَّهِ الْمُحَرَّمُ وَأَفْضَلُ الصَّلاَةِ بَعْدَ الْفَرِيضَةِ صَلاَةُ اللَّيْلِ\n\n“Puasa yang paling utama setelah (puasa) Ramadhan adalah puasa pada bulan Allah – Muharram. Sementara shalat yang paling utama setelah shalat wajib adalah shalat malam.” \n(HR. Muslim no. 1163)",
+    "height": "2' 07\"",
+    "category": "Akhlak",
+    "weight": "19.0 lbs",
+    "typeofpokemon": [
+      "HR_Muslim"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Ice",
+      "Psychic"
+    ],
+    "evolutions": [
+      "#A045"
+    ],
+    "abilities": [
+      "Chlorophyll"
+    ],
+    "hp": 30,
+    "attack": 30,
+    "defense": 30,
+    "special_attack": 40,
+    "special_defense": 30,
+    "speed": 20,
+    "total": 180,
+    "male_percentage": "50%",
+    "female_percentage": "50%",
+    "genderless": 0,
+    "cycles": "20 ",
+    "egg_groups": "Grass ",
+    "evolvedfrom": "#043",
+    "reason": "(Level 21)",
+    "base_exp": "138"
+  }
+,
+{
+    "name": "046",
+    "id": "#A046",
+    "imageurl": "https://drive.google.com/u/0/uc?id=12pw2hQGKD7dh2kXJnEguEMCXBc6wHF-g&export=download",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1Z9Dw54yIyUFLYfLur__5nQGRaZMnKZVf&export=download",
+    "xdescription": " لَأَنْ يَأْخُذَ أَحَدُكُمْ حَبْلَهُ فَيَأْتِيَ بِحُزْمَةِ الْحَطَبِ عَلَى ظَهْرِهِ فَيَبِيعَهَا فَيَكُفَّ اللَّهُ بِهَا وَجْهَهُ خَيْرٌ لَهُ مِنْ أَنْ يَسْأَلَ النَّاسَ أَعْطَوْهُ أَوْ مَنَعُوهُ\n\n"Sungguh seorang dari kalian yang mengambil talinya lalu dia mencari seikat kayu bakar dan dibawa dengan punggungnya kemudian dia menjualnya, maka Allah mencukupkannya dengan hal tersebut lebih baik baginya daripada dia meminta-minta kepada manusia, baik mereka memberinya atau tidak." \n(HR. al-Bukhari: 1378)",
+    "xdescription": " لَأَنْ يَأْخُذَ أَحَدُكُمْ حَبْلَهُ فَيَأْتِيَ بِحُزْمَةِ الْحَطَبِ عَلَى ظَهْرِهِ فَيَبِيعَهَا فَيَكُفَّ اللَّهُ بِهَا وَجْهَهُ خَيْرٌ لَهُ مِنْ أَنْ يَسْأَلَ النَّاسَ أَعْطَوْهُ أَوْ مَنَعُوهُ\n\n"Sungguh seorang dari kalian yang mengambil talinya lalu dia mencari seikat kayu bakar dan dibawa dengan punggungnya kemudian dia menjualnya, maka Allah mencukupkannya dengan hal tersebut lebih baik baginya daripada dia meminta-minta kepada manusia, baik mereka memberinya atau tidak." \n(HR. al-Bukhari: 1378)",
+    "height": "2' 07\"",
+    "category": "Akhlak",
+    "weight": "19.0 lbs",
+    "typeofpokemon": [
+      "HR_Bukhari"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Ice",
+      "Psychic"
+    ],
+    "evolutions": [
+      "#A046"
+    ],
+    "abilities": [
+      "Chlorophyll"
+    ],
+    "hp": 30,
+    "attack": 30,
+    "defense": 30,
+    "special_attack": 40,
+    "special_defense": 30,
+    "speed": 20,
+    "total": 180,
+    "male_percentage": "50%",
+    "female_percentage": "50%",
+    "genderless": 0,
+    "cycles": "20 ",
+    "egg_groups": "Grass ",
+    "evolvedfrom": "#043",
+    "reason": "(Level 21)",
+    "base_exp": "138"
   },
   {
     "name": "001",
@@ -2649,42 +2733,6 @@
 {
     "name": "Hutang",
     "id": "_IhlOUiMHtM",
-    "imageurl": "fVpaqVQNtxI",
-    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
-    "xdescription": "Tidak Membayar Hutang Inilah yang Akan Terjadi Di akhirat - Ustadz Abdul Somad Lc Ma",
-    "ydescription": "Tidak Membayar Hutang Inilah yang Akan Terjadi Di akhirat - Ustadz Abdul Somad Lc Ma",
-    "height": "8' 02\"",
-    "category": "Bersyukur",
-    "weight": "1763.7 lbs",
-    "typeofpokemon": [
-      "KH_Zainuddin_MZ"
-    ],
-    "weaknesses": [
-      "Fire",
-      "Fighting",
-      "Ground"
-    ],
-    "evolutions": [
-      "RXxFDpRbrkY"
-    ],
-    "abilities": [],
-    "hp": 50,
-    "attack": 70,
-    "defense": 60,
-    "special_attack": 40,
-    "special_defense": 20,
-    "speed": 20,
-    "total": 260,
-    "genderless": 1,
-    "cycles": "-",
-    "egg_groups": "Undiscovered ",
-    "evolvedfrom": "#808",
-    "reason": "(Pok\u00e9mon GO only, 400 Meltan Candies)",
-    "base_exp": "\u2014"
-  },
-{
-    "name": "Hutang",
-    "id": "_IhlOUiMHtM",
     "imageurl": "xTOavOwFLog",
     "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
     "xdescription": "Tidak Membayar Hutang Inilah yang Akan Terjadi Di akhirat - Ustadz Abdul Somad Lc Ma",
@@ -2802,6 +2850,113 @@
     "weight": "1763.7 lbs",
     "typeofpokemon": [
       "Ustadz_Abdul_Somad"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "evolutions": [
+      "RXxFDpRbrkY"
+    ],
+    "abilities": [],
+    "hp": 50,
+    "attack": 70,
+    "defense": 60,
+    "special_attack": 40,
+    "special_defense": 20,
+    "speed": 20,
+    "total": 260,
+    "genderless": 1,
+    "cycles": "-",
+    "egg_groups": "Undiscovered ",
+    "evolvedfrom": "#808",
+    "reason": "(Pok\u00e9mon GO only, 400 Meltan Candies)",
+    "base_exp": "\u2014"
+  },{
+    "name": "Amalan Bulan Muharram",
+    "id": "A1tBbBBypU0",
+    "imageurl": "A1tBbBBypU0",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
+    "xdescription": "AMALAN SUNNAH PALING UTAMA DI BULAN MUHARRAM - Ustadz. Abdul Somad. Lc., MA",
+    "ydescription": "AMALAN SUNNAH PALING UTAMA DI BULAN MUHARRAM - Ustadz. Abdul Somad. Lc., MA",
+    "height": "8' 02\"",
+    "category": "Bersyukur",
+    "weight": "1763.7 lbs",
+    "typeofpokemon": [
+      "Ustadz_Abdul_Somad"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "evolutions": [
+      "RXxFDpRbrkY"
+    ],
+    "abilities": [],
+    "hp": 50,
+    "attack": 70,
+    "defense": 60,
+    "special_attack": 40,
+    "special_defense": 20,
+    "speed": 20,
+    "total": 260,
+    "genderless": 1,
+    "cycles": "-",
+    "egg_groups": "Undiscovered ",
+    "evolvedfrom": "#808",
+    "reason": "(Pok\u00e9mon GO only, 400 Meltan Candies)",
+    "base_exp": "\u2014"
+  },
+{
+    "name": "Keutamaan Bulan Muharram",
+    "id": "iCmukwRB5v0",
+    "imageurl": "iCmukwRB5v0",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
+    "xdescription": "KEUTAMAAN DAN KEBERKAHAN BULAN MUHARRAM (KH ZAINUDDIN, MZ)",
+    "ydescription": "KEUTAMAAN DAN KEBERKAHAN BULAN MUHARRAM (KH ZAINUDDIN, MZ)",
+    "height": "8' 02\"",
+    "category": "Bersyukur",
+    "weight": "1763.7 lbs",
+    "typeofpokemon": [
+      "KH_Zainuddin_MZ"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "evolutions": [
+      "RXxFDpRbrkY"
+    ],
+    "abilities": [],
+    "hp": 50,
+    "attack": 70,
+    "defense": 60,
+    "special_attack": 40,
+    "special_defense": 20,
+    "speed": 20,
+    "total": 260,
+    "genderless": 1,
+    "cycles": "-",
+    "egg_groups": "Undiscovered ",
+    "evolvedfrom": "#808",
+    "reason": "(Pok\u00e9mon GO only, 400 Meltan Candies)",
+    "base_exp": "\u2014"
+  },
+{
+    "name": "Amalan Terbaik Bulan Muharram",
+    "id": "LRBAL7WbN6Y",
+    "imageurl": "LRBAL7WbN6Y",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
+    "xdescription": "AMALAN TERBAIK DI BULAN MUHARRAM | USTADZ ADI HIDAYAT",
+    "ydescription": "AMALAN TERBAIK DI BULAN MUHARRAM | USTADZ ADI HIDAYAT",
+    "height": "8' 02\"",
+    "category": "Bersyukur",
+    "weight": "1763.7 lbs",
+    "typeofpokemon": [
+      "Ustadz_Adi_Hidayat"
     ],
     "weaknesses": [
       "Fire",
