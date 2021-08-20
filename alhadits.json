@@ -2009,6 +2009,211 @@
     "base_exp": "138"
   },
   {
+    "name": "051",
+    "id": "#A051",
+    "imageurl": "https://drive.google.com/u/0/uc?id=1hVXOKcedVXfCNfBMHZjc3KJZSTwxQqqj&export=download",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1m5fMAgyIzdpL5yqI4dtbzBcfRgp4GJRC&export=download",
+    "xdescription": "مَنْ تَوَضَّأَ فَأَحْسَنَ الْوُضُوءَ ثُمَّ أَتَى الْجُمُعَةَ فَدَنَا وَاسْتَمَعَ وَأَنْصَتَ غُفِرَ لَهُ مَا بَيْنَهُ وَبَيْنَ الْجُمُعَةِ وَزِيَادَةُ ثَلَاثَةِ أَيَّامٍ وَمَنْ مَسَّ الْحَصَى فَقَدْ لَغَا\n\n“Barang siapa berwudlu` kemudian menyempurnakan wudlu`nya lalu mendatangi shalat Jum`at, lalu dia mendekat, mendengarkan serta berdiam diri (untuk menyimak khutbah), maka akan diampuni dosa-dosanya diantara hari itu sampai Jum`at (berikutnya) dan ditambah tiga hari setelah itu. Barang siapa yang bermain kerikil, maka ia telah melakukan perbuatan sia-sia.”\n\n(HR. At Tirmidzi: 458)",
+    "ydescription": "مَنْ تَوَضَّأَ فَأَحْسَنَ الْوُضُوءَ ثُمَّ أَتَى الْجُمُعَةَ فَدَنَا وَاسْتَمَعَ وَأَنْصَتَ غُفِرَ لَهُ مَا بَيْنَهُ وَبَيْنَ الْجُمُعَةِ وَزِيَادَةُ ثَلَاثَةِ أَيَّامٍ وَمَنْ مَسَّ الْحَصَى فَقَدْ لَغَا\n\n“Barang siapa berwudlu` kemudian menyempurnakan wudlu`nya lalu mendatangi shalat Jum`at, lalu dia mendekat, mendengarkan serta berdiam diri (untuk menyimak khutbah), maka akan diampuni dosa-dosanya diantara hari itu sampai Jum`at (berikutnya) dan ditambah tiga hari setelah itu. Barang siapa yang bermain kerikil, maka ia telah melakukan perbuatan sia-sia.”\n\n(HR. At Tirmidzi: 458)",
+    "height": "2' 07\"",
+    "category": "Akhlak",
+    "weight": "19.0 lbs",
+    "typeofpokemon": [
+      "HR_At_strip_Tirmidzi"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Ice",
+      "Psychic"
+    ],
+    "evolutions": [
+      "#A051"
+    ],
+    "abilities": [
+      "Chlorophyll"
+    ],
+    "hp": 30,
+    "attack": 30,
+    "defense": 30,
+    "special_attack": 40,
+    "special_defense": 30,
+    "speed": 20,
+    "total": 180,
+    "male_percentage": "50%",
+    "female_percentage": "50%",
+    "genderless": 0,
+    "cycles": "20 ",
+    "egg_groups": "Grass ",
+    "evolvedfrom": "#043",
+    "reason": "(Level 21)",
+    "base_exp": "138"
+  },
+{
+    "name": "052",
+    "id": "#A052",
+    "imageurl": "https://drive.google.com/u/0/uc?id=1fWYrHS4oG5LBeABtpP0qkTSVbHPgcOs5&export=download",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1H6Y5WYIT6d5QgvL6_MGsqlOM1eSXvAV-&export=download",
+    "xdescription": "لَيَنْتَهِيَنَّ أَقْوَامٌ عَنْ وَدْعِهِمْ الْجَمَاعَاتِ أَوْ لَيَخْتِمَنَّ اللَّهُ عَلَى قُلُوبِهِمْ ثُمَّ لَيَكُونُنَّ مِنْ الْغَافِلِينَ\n\n“Sungguh, kaum-kaum itu segera berhenti dari kebiasaan meninggalkan shalat berjama`ah, atau Allah akan menutup hati mereka sehingga menjadi orang-orang yang lalai.”\n\n(HR. Ibnu Majah: 786)",
+    "ydescription": "لَيَنْتَهِيَنَّ أَقْوَامٌ عَنْ وَدْعِهِمْ الْجَمَاعَاتِ أَوْ لَيَخْتِمَنَّ اللَّهُ عَلَى قُلُوبِهِمْ ثُمَّ لَيَكُونُنَّ مِنْ الْغَافِلِينَ\n\n“Sungguh, kaum-kaum itu segera berhenti dari kebiasaan meninggalkan shalat berjama`ah, atau Allah akan menutup hati mereka sehingga menjadi orang-orang yang lalai.”\n\n(HR. Ibnu Majah: 786)",
+    "height": "2' 07\"",
+    "category": "Akhlak",
+    "weight": "19.0 lbs",
+    "typeofpokemon": [
+      "HR_Ibnu_Majah"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Ice",
+      "Psychic"
+    ],
+    "evolutions": [
+      "#A052"
+    ],
+    "abilities": [
+      "Chlorophyll"
+    ],
+    "hp": 30,
+    "attack": 30,
+    "defense": 30,
+    "special_attack": 40,
+    "special_defense": 30,
+    "speed": 20,
+    "total": 180,
+    "male_percentage": "50%",
+    "female_percentage": "50%",
+    "genderless": 0,
+    "cycles": "20 ",
+    "egg_groups": "Grass ",
+    "evolvedfrom": "#043",
+    "reason": "(Level 21)",
+    "base_exp": "138"
+  },
+{
+    "name": "053",
+    "id": "#A053",
+    "imageurl": "https://drive.google.com/u/0/uc?id=12C-zWCJzXeUmzTfIKqIQNxXjPRJOh5qk&export=download",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=14obrErH0Yj7lYvLmzabl-398Ej-45wK-&export=download",
+    "xdescription": "فِيهِ سَاعَةٌ لَا يُوَافِقُهَا عَبْدٌ مُسْلِمٌ وَهُوَ قَائِمٌ يُصَلِّي يَسْأَلُ اللَّهَ تَعَالَى شَيْئًا إِلَّا أَعْطَاهُ إِيَّاهُ وَأَشَارَ بِيَدِهِ يُقَلِّلُهَا\n\n“Pada hari Jum`at itu ada satu saat, tidaklah seorang hamba Muslim mengerjakan shalat lalu dia berdo`a tepat pada saat tersebut melainkan Allah akan mengabulkan do`anya tersebut.” Kemudian beliau memberi isyarat dengan tangannya yang menunjukkan sedikitnya saat tersebut.”\n\n(HR. Bukhari: 883)",
+    "ydescription": "فِيهِ سَاعَةٌ لَا يُوَافِقُهَا عَبْدٌ مُسْلِمٌ وَهُوَ قَائِمٌ يُصَلِّي يَسْأَلُ اللَّهَ تَعَالَى شَيْئًا إِلَّا أَعْطَاهُ إِيَّاهُ وَأَشَارَ بِيَدِهِ يُقَلِّلُهَا\n\n“Pada hari Jum`at itu ada satu saat, tidaklah seorang hamba Muslim mengerjakan shalat lalu dia berdo`a tepat pada saat tersebut melainkan Allah akan mengabulkan do`anya tersebut.” Kemudian beliau memberi isyarat dengan tangannya yang menunjukkan sedikitnya saat tersebut.”\n\n(HR. Bukhari: 883)",
+    "height": "2' 07\"",
+    "category": "Akhlak",
+    "weight": "19.0 lbs",
+    "typeofpokemon": [
+      "HR_Bukhari"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Ice",
+      "Psychic"
+    ],
+    "evolutions": [
+      "#A053"
+    ],
+    "abilities": [
+      "Chlorophyll"
+    ],
+    "hp": 30,
+    "attack": 30,
+    "defense": 30,
+    "special_attack": 40,
+    "special_defense": 30,
+    "speed": 20,
+    "total": 180,
+    "male_percentage": "50%",
+    "female_percentage": "50%",
+    "genderless": 0,
+    "cycles": "20 ",
+    "egg_groups": "Grass ",
+    "evolvedfrom": "#043",
+    "reason": "(Level 21)",
+    "base_exp": "138"
+  },
+{
+    "name": "054",
+    "id": "#A054",
+    "imageurl": "https://drive.google.com/u/0/uc?id=1ibXqjIUyiJC9X-u5XW6JBoqrPGxFih5r&export=download",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1ScPT2fznd2t61X2kzkNf9NfMof7kO1cW&export=download",
+    "xdescription": "جَاءَ رَجُلٌ وَالنَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَخْطُبُ النَّاسَ يَوْمَ الْجُمُعَةِ فَقَالَ أَصَلَّيْتَ يَا فُلَانُ قَالَ لَا قَالَ قُمْ فَارْكَعْ رَكْعَتَيْنِ\n\n“Seorang laki-laki datang saat Nabi shallallahu `alaihi wasallam sedang memberikan khutbah di hadapan orang banyak pada hari Jum`at. \nBeliau lalu bertanya: “Wahai fulan, apakah kamu sudah shalat?” \nOrang itu menjawab, “Belum.” \nMaka beliau bersabda: “Bangun dan shalatlah dua rakaat.”\n\n(HR. Bukhari: 878)",
+    "ydescription": "جَاءَ رَجُلٌ وَالنَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَخْطُبُ النَّاسَ يَوْمَ الْجُمُعَةِ فَقَالَ أَصَلَّيْتَ يَا فُلَانُ قَالَ لَا قَالَ قُمْ فَارْكَعْ رَكْعَتَيْنِ\n\n“Seorang laki-laki datang saat Nabi shallallahu `alaihi wasallam sedang memberikan khutbah di hadapan orang banyak pada hari Jum`at. \nBeliau lalu bertanya: “Wahai fulan, apakah kamu sudah shalat?” \nOrang itu menjawab, “Belum.” \nMaka beliau bersabda: “Bangun dan shalatlah dua rakaat.”\n\n(HR. Bukhari: 878)",
+    "height": "2' 07\"",
+    "category": "Akhlak",
+    "weight": "19.0 lbs",
+    "typeofpokemon": [
+      "HR_Bukhari"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Ice",
+      "Psychic"
+    ],
+    "evolutions": [
+      "#A054"
+    ],
+    "abilities": [
+      "Chlorophyll"
+    ],
+    "hp": 30,
+    "attack": 30,
+    "defense": 30,
+    "special_attack": 40,
+    "special_defense": 30,
+    "speed": 20,
+    "total": 180,
+    "male_percentage": "50%",
+    "female_percentage": "50%",
+    "genderless": 0,
+    "cycles": "20 ",
+    "egg_groups": "Grass ",
+    "evolvedfrom": "#043",
+    "reason": "(Level 21)",
+    "base_exp": "138"
+  },
+{
+    "name": "055",
+    "id": "#A055",
+    "imageurl": "https://drive.google.com/u/0/uc?id=1uK_zbbfMsD4yXVn-cIbxnmPTWIAhUf1j&export=download",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=15M6B8lEI8lGwnhBtywiGkPE2FQwqzkwz&export=download",
+    "xdescription": "لَا يُقِيمَنَّ أَحَدُكُمْ أَخَاهُ يَوْمَ الْجُمُعَةِ ثُمَّ لْيُخَالِفْ إِلَى مَقْعَدِهِ فَيَقْعُدَ فِيهِ وَلَكِنْ يَقُولُ افْسَحُوا\n\n“Janganlah kamu menyuruh saudaramu berdiri pada hari Jum`at dari tempat duduknya untuk kamu gantikan tempatnya itu, tetapi katakanlah kepadanya; “Marilah kita berlapang-lapang!”\n\n(HR. Muslim: 4046)",
+    "ydescription": "لَا يُقِيمَنَّ أَحَدُكُمْ أَخَاهُ يَوْمَ الْجُمُعَةِ ثُمَّ لْيُخَالِفْ إِلَى مَقْعَدِهِ فَيَقْعُدَ فِيهِ وَلَكِنْ يَقُولُ افْسَحُوا\n\n“Janganlah kamu menyuruh saudaramu berdiri pada hari Jum`at dari tempat duduknya untuk kamu gantikan tempatnya itu, tetapi katakanlah kepadanya; “Marilah kita berlapang-lapang!”\n\n(HR. Muslim: 4046)",
+    "height": "2' 07\"",
+    "category": "Akhlak",
+    "weight": "19.0 lbs",
+    "typeofpokemon": [
+      "HR_Muslim"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Ice",
+      "Psychic"
+    ],
+    "evolutions": [
+      "#A055"
+    ],
+    "abilities": [
+      "Chlorophyll"
+    ],
+    "hp": 30,
+    "attack": 30,
+    "defense": 30,
+    "special_attack": 40,
+    "special_defense": 30,
+    "speed": 20,
+    "total": 180,
+    "male_percentage": "50%",
+    "female_percentage": "50%",
+    "genderless": 0,
+    "cycles": "20 ",
+    "egg_groups": "Grass ",
+    "evolvedfrom": "#043",
+    "reason": "(Level 21)",
+    "base_exp": "138"
+  },
+  {
     "name": "001",
     "id": "#001",
     "imageurl": "https://drive.google.com/u/0/uc?id=1T_zw23-5h-Vo7WgvpiFA5z4ZbwBV3zNe&export=download",
