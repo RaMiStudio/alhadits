@@ -3350,6 +3350,42 @@
     "reason": "(Pok\u00e9mon GO only, 400 Meltan Candies)",
     "base_exp": "\u2014"
   }
+,{
+    "name": "Asmaul Husnah",
+    "id": "EK671oPjKvU",
+    "imageurl": "B94LjuyvWIA",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1lkqyGv2I_tvq6xz7H8cbrililXsFwELd&export=download",
+    "xdescription": "Asmaul Husnah Ustad Abdul Somad LC MA",
+    "ydescription": "Asmaul Husnah Ustad Abdul Somad LC MA",
+    "height": "8' 02\"",
+    "category": "Bersyukur",
+    "weight": "1763.7 lbs",
+    "typeofpokemon": [
+      "Ustadz_Abdul_Somad"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "evolutions": [
+      "RXxFDpRbrkY"
+    ],
+    "abilities": [],
+    "hp": 50,
+    "attack": 70,
+    "defense": 60,
+    "special_attack": 40,
+    "special_defense": 20,
+    "speed": 20,
+    "total": 260,
+    "genderless": 1,
+    "cycles": "-",
+    "egg_groups": "Undiscovered ",
+    "evolvedfrom": "#808",
+    "reason": "(Pok\u00e9mon GO only, 400 Meltan Candies)",
+    "base_exp": "\u2014"
+  }
 
 
 ]
