@@ -2214,6 +2214,212 @@
     "base_exp": "138"
   },
   {
+    "name": "056",
+    "id": "#A056",
+    "imageurl": "https://drive.google.com/u/0/uc?id=1PCTxUbDYmtGMrlntidreKoa68wgqanHv&export=download",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1HPnb9j1JDIQ72X63PC5dkzWcD5w6k5AU&export=download",
+    "xdescription": "طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ\n\n“Menuntut ilmu adalah kewajiban bagi setiap muslim.”\n\n(HR Ibnu Majah: 220)",
+    "ydescription": "طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ\n\n“Menuntut ilmu adalah kewajiban bagi setiap muslim.”\n\n(HR Ibnu Majah: 220)",
+    "height": "2' 07\"",
+    "category": "Akhlak",
+    "weight": "19.0 lbs",
+    "typeofpokemon": [
+      "HR_Ibnu_Majah"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Ice",
+      "Psychic"
+    ],
+    "evolutions": [
+      "#A051"
+    ],
+    "abilities": [
+      "Chlorophyll"
+    ],
+    "hp": 30,
+    "attack": 30,
+    "defense": 30,
+    "special_attack": 40,
+    "special_defense": 30,
+    "speed": 20,
+    "total": 180,
+    "male_percentage": "50%",
+    "female_percentage": "50%",
+    "genderless": 0,
+    "cycles": "20 ",
+    "egg_groups": "Grass ",
+    "evolvedfrom": "#043",
+    "reason": "(Level 21)",
+    "base_exp": "138"
+  },
+{
+    "name": "057",
+    "id": "#A057",
+    "imageurl": "https://drive.google.com/u/0/uc?id=1E9bTy9h0KY6AZ0S3kRLSWl_h_snv9i0d&export=download",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1ghm0P-QY9MGUqkqLDwGYqycfmAkhA1VO&export=download",
+    "xdescription": "فَقِيهٌ وَاحِدٌ أَشَدُّ عَلَى الشَّيْطَانِ مِنْ أَلْفِ عَابِدٍ\n\n“Satu orang faqih itu lebih keras bagi setan dari pada seribu ahli ibadah.”\n\n(HR Ibnu Majah: 218)",
+    "ydescription": "فَقِيهٌ وَاحِدٌ أَشَدُّ عَلَى الشَّيْطَانِ مِنْ أَلْفِ عَابِدٍ\n\n“Satu orang faqih itu lebih keras bagi setan dari pada seribu ahli ibadah.”\n\n(HR Ibnu Majah: 218)",
+    "height": "2' 07\"",
+    "category": "Akhlak",
+    "weight": "19.0 lbs",
+    "typeofpokemon": [
+      "HR_Ibnu_Majah"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Ice",
+      "Psychic"
+    ],
+    "evolutions": [
+      "#A051"
+    ],
+    "abilities": [
+      "Chlorophyll"
+    ],
+    "hp": 30,
+    "attack": 30,
+    "defense": 30,
+    "special_attack": 40,
+    "special_defense": 30,
+    "speed": 20,
+    "total": 180,
+    "male_percentage": "50%",
+    "female_percentage": "50%",
+    "genderless": 0,
+    "cycles": "20 ",
+    "egg_groups": "Grass ",
+    "evolvedfrom": "#043",
+    "reason": "(Level 21)",
+    "base_exp": "138"
+  },
+{
+    "name": "058",
+    "id": "#A058",
+    "imageurl": "https://drive.google.com/u/0/uc?id=19urTC1Dd0MDUm_QwrT2QMUT4tEjijH-f&export=download",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1xm29biNYX5j3-qarHBprex0xEaqthuP5&export=download",
+    "xdescription": " أَنَّهُ قَالَ الْخَيْرُ عَادَةٌ وَالشَّرُّ لَجَاجَةٌ وَمَنْ يُرِدْ اللَّهُ بِهِ خَيْرًا يُفَقِّهْهُ فِي الدِّينِ\n\n“Kebaikan adalah kebiasaan (bagi seorang mukmin) dan keburukan adalah permusuhan. Dan barangsiapa Allah menghendaki kebaikan pada seseorang maka Allah akan memahamkan agama kepadanya.”\n\n(HR Ibnu Majah: 217)",
+    "ydescription": " أَنَّهُ قَالَ الْخَيْرُ عَادَةٌ وَالشَّرُّ لَجَاجَةٌ وَمَنْ يُرِدْ اللَّهُ بِهِ خَيْرًا يُفَقِّهْهُ فِي الدِّينِ\n\n“Kebaikan adalah kebiasaan (bagi seorang mukmin) dan keburukan adalah permusuhan. Dan barangsiapa Allah menghendaki kebaikan pada seseorang maka Allah akan memahamkan agama kepadanya.”\n\n(HR Ibnu Majah: 217)",
+    "height": "2' 07\"",
+    "category": "Akhlak",
+    "weight": "19.0 lbs",
+    "typeofpokemon": [
+      "HR_Ibnu_Majah"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Ice",
+      "Psychic"
+    ],
+    "evolutions": [
+      "#A051"
+    ],
+    "abilities": [
+      "Chlorophyll"
+    ],
+    "hp": 30,
+    "attack": 30,
+    "defense": 30,
+    "special_attack": 40,
+    "special_defense": 30,
+    "speed": 20,
+    "total": 180,
+    "male_percentage": "50%",
+    "female_percentage": "50%",
+    "genderless": 0,
+    "cycles": "20 ",
+    "egg_groups": "Grass ",
+    "evolvedfrom": "#043",
+    "reason": "(Level 21)",
+    "base_exp": "138"
+  },
+{
+    "name": "059",
+    "id": "#A059",
+    "imageurl": "https://drive.google.com/u/0/uc?id=1_8j2S8je-cFNyCJOzjUWzRk9_aF60a2m&export=download",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1MSLU5pVD4-0yyd-JWIUh1bBZ8a_N3lmZ&export=download",
+    "xdescription": "مَنْ يُرِدْ اللَّهُ بِهِ خَيْرًا يُصِبْ مِنْهُ\n\n“Barangsiapa di kehendaki Allah kebaikan, maka Dia akan mengujinya.”\n\n(HR Bukhari: 5213)",
+    "ydescription": "مَنْ يُرِدْ اللَّهُ بِهِ خَيْرًا يُصِبْ مِنْهُ\n\n“Barangsiapa di kehendaki Allah kebaikan, maka Dia akan mengujinya.”\n\n(HR Bukhari: 5213)",
+    "height": "2' 07\"",
+    "category": "Akhlak",
+    "weight": "19.0 lbs",
+    "typeofpokemon": [
+      "HR_Bukhari"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Ice",
+      "Psychic"
+    ],
+    "evolutions": [
+      "#A051"
+    ],
+    "abilities": [
+      "Chlorophyll"
+    ],
+    "hp": 30,
+    "attack": 30,
+    "defense": 30,
+    "special_attack": 40,
+    "special_defense": 30,
+    "speed": 20,
+    "total": 180,
+    "male_percentage": "50%",
+    "female_percentage": "50%",
+    "genderless": 0,
+    "cycles": "20 ",
+    "egg_groups": "Grass ",
+    "evolvedfrom": "#043",
+    "reason": "(Level 21)",
+    "base_exp": "138"
+  },
+{
+    "name": "060",
+    "id": "#A060",
+    "imageurl": "https://drive.google.com/u/0/uc?id=1WsabPBP50nROT6iNdNJx00o-bESIIFYD&export=download",
+    "imageurlforshare": "https://drive.google.com/u/0/uc?id=1BoPh469RlW8XQ4u9h6cV_uX6UgLnp75F&export=download",
+    "xdescription": "إِنَّ اللَّهَ هُوَ الْمُسَعِّرُ الْقَابِضُ الْبَاسِطُ الرَّازِقُ وَإِنِّي لَأَرْجُو أَنْ أَلْقَى اللَّهَ وَلَيْسَ أَحَدٌ مِنْكُمْ يُطَالِبُنِي بِمَظْلَمَةٍ فِي دَمٍ وَلَا مَالٍ\n\n“Sesungguhnya Allahlah yang menentukan harga, Yang menggenggam dan Yang menghamparkan, dan Pemberi rizqi. Dan sungguh aku berharap berjumpa dengan Allah sementara tidak ada seorang pun dari kalian yang menuntutku karena suatu kezhaliman dalam hal darah, dan harta.”\n\n(HR. At Tirmidzi : 1235)",
+    "ydescription": "إِنَّ اللَّهَ هُوَ الْمُسَعِّرُ الْقَابِضُ الْبَاسِطُ الرَّازِقُ وَإِنِّي لَأَرْجُو أَنْ أَلْقَى اللَّهَ وَلَيْسَ أَحَدٌ مِنْكُمْ يُطَالِبُنِي بِمَظْلَمَةٍ فِي دَمٍ وَلَا مَالٍ\n\n“Sesungguhnya Allahlah yang menentukan harga, Yang menggenggam dan Yang menghamparkan, dan Pemberi rizqi. Dan sungguh aku berharap berjumpa dengan Allah sementara tidak ada seorang pun dari kalian yang menuntutku karena suatu kezhaliman dalam hal darah, dan harta.”\n\n(HR. At Tirmidzi : 1235)",
+    "height": "2' 07\"",
+    "category": "Akhlak",
+    "weight": "19.0 lbs",
+    "typeofpokemon": [
+      "HR_At_strip_Tirmidzi"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Ice",
+      "Psychic"
+    ],
+    "evolutions": [
+      "#A051"
+    ],
+    "abilities": [
+      "Chlorophyll"
+    ],
+    "hp": 30,
+    "attack": 30,
+    "defense": 30,
+    "special_attack": 40,
+    "special_defense": 30,
+    "speed": 20,
+    "total": 180,
+    "male_percentage": "50%",
+    "female_percentage": "50%",
+    "genderless": 0,
+    "cycles": "20 ",
+    "egg_groups": "Grass ",
+    "evolvedfrom": "#043",
+    "reason": "(Level 21)",
+    "base_exp": "138"
+  },
+
+  {
     "name": "001",
     "id": "#001",
     "imageurl": "https://drive.google.com/u/0/uc?id=1T_zw23-5h-Vo7WgvpiFA5z4ZbwBV3zNe&export=download",
